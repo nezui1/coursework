@@ -1,0 +1,54 @@
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormParametrs.resources
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.MainForm.resources
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.GenerateResource.cache
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfo.cs
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.exe
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.deps.json
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.runtimeconfig.json
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\refint\courseWorkList.dll
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.genruntimeconfig.cache
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\ref\courseWorkList.dll
+C:\Users\Макс\source\repos\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormInfo.resources
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.exe
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.deps.json
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.runtimeconfig.json
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormInfo.resources
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormParametrs.resources
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.MainForm.resources
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\refint\courseWorkList.dll
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\ref\courseWorkList.dll
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.exe
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.deps.json
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.runtimeconfig.json
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\bin\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormInfo.resources
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.FormParametrs.resources
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.MainForm.resources
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.GenerateResource.cache
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.AssemblyInfo.cs
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.dll
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\refint\courseWorkList.dll
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.pdb
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\courseWorkList.genruntimeconfig.cache
+C:\Users\Макс\source\repos\Новая папка (2)\courseWorkList\courseWorkList\obj\Debug\net8.0-windows\ref\courseWorkList.dll
